@@ -1,1 +1,0 @@
-Zaczynamy pracę z GITEM
