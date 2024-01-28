@@ -1,2 +1,2 @@
-print("hello world")
-print("Kolejna instrukcja")
+print("Witam w moim programie!")
+input("Podaj imię: ")
